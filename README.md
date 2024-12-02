@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devendra Patil
-- 👀 I’m interested in Data Science, Machine learning and Deep Learning
+- 👀 I’m interested in Data Enginnering and Data Related work like ML, DL.
 - 🌱 I’m currently learning Deep learning from Deeplearning.ai
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 You can reach me through email : devendrapatil4014@gmail.com
